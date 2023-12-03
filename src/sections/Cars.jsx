@@ -1,7 +1,9 @@
 
 const Cars = () => {
   return (
-    <div>Cars</div>
+    <section id="cars" className="h-screen flex items-center">
+
+    </section>
   )
 }
 

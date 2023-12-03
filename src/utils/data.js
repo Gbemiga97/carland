@@ -26,9 +26,16 @@ const navData = [
 ]
 
 
+const locationData = [
+    "Main Street 123, United States",
+    "Business Avenue 456, Canada",
+    "Park Road 789, United Kingdom"
+]
+
 
 const data = {
-    navData
+    navData,
+    locationData
 }
 
 

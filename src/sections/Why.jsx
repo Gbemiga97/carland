@@ -1,7 +1,9 @@
 
 const Why = () => {
   return (
-    <div>Why</div>
+    <section id="why" className="section flex items-center">
+      Why us
+    </section>
   )
 }
 

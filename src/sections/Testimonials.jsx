@@ -1,7 +1,9 @@
 
 const Testimonials = () => {
   return (
-    <div>Testimonials</div>
+    <section id="testimonials" className="section flex items-center">
+      Testimonials
+    </section>
   )
 }
 
