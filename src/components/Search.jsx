@@ -1,5 +1,5 @@
 import { useSearchContext } from "../context/SearchContext"
-import {LocationSelection} from "."
+import {DateSelection, LocationSelection} from "."
 
 const Search = () => {
 
@@ -10,6 +10,7 @@ const Search = () => {
     hidden xl:block w-full relative shadow-lg`}>
       <div className="xl:h-full flex items-center px-6 xl:px-8">
       <LocationSelection />
+      <DateSelection />
       </div>
       </div>
   )
