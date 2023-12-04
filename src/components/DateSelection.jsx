@@ -42,6 +42,24 @@ const DateSelection = () => {
                 <p className="text-[0.9rem] uppercase font-bold">
                 Select Date</p>
           </div>
+          <div className="flex  items-center gap-x-3 xl:ml-6">
+            <p className="text-[0.7rem] font-medium text-secondary">
+              {format(date[0].startDate, 'dd/MM/yyyy')}</p>
+            <FaArrowRightLong className='text-accent text-[12px]' />
+            <div >
+              {
+                date[0].endDate ? (
+                  <p className="text-[0.7rem] font-medium text-secondary">
+                    {format(date[0].endDate, 'dd/MM/yyyy')}
+                  </p>
+                ) : (
+                  <p className="text-[0.7rem] font-medium text-secondary">
+                    {format(date[0].startDate, 'dd/MM/yyyy')}
+                  </p>
+                )
+              }
+            </div>
+          </div>
         </Menu.Button>
         {/* Menu */} 
         <Menu.Items

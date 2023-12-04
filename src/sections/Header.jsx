@@ -92,6 +92,7 @@ const Header = () => {
           {
             data.navData.map(({name, link}, i) => (
             <Link 
+            key={i}
             onClick={() => setNav(false)}
             activeClass="active"
             smooth={desktopMode}

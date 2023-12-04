@@ -7,7 +7,7 @@ import LocationSelection from "./LocationSelection";
 import Search from "./Search";
 import SearchMobile from "./SearchMobile";
 import TestimonialsSlider from "./TestimonialsSlider";
-
+import Brands from "./Brands";
 
 
 export {
@@ -19,7 +19,8 @@ export {
     LocationSelection,
     Search,
     SearchMobile,
-    TestimonialsSlider
+    TestimonialsSlider,
+    Brands
 }
 
 

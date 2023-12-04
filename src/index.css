@@ -10,12 +10,12 @@
   background-color: #fff !important
 }
 
-.rdrDayToday .rdrDayNumber span::after {
-  background: #ed1d24 !important
+.rdrDayToday .rdrDayNumber span:after {
+  background: #ed1d24 !important;
 }
 
 .rdrMonthAndYearPickers {
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 .rdrDayNumber, 
