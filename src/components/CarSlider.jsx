@@ -53,8 +53,8 @@ const CarSlider = () => {
                   <FaStar />
                   <FaStar />
                   <FaStar />
-                  <FaStar />
-                  <FaStar />
+                  <FaStarHalfAlt />
+                  <FaRegStar />
                  </div>
                 </div>
                 {/* car info */}
