@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/carland/static/css/main.61be283e.css",
+    "main.js": "/carland/static/js/main.cb23c7b4.js",
+    "static/js/787.2ed6926a.chunk.js": "/carland/static/js/787.2ed6926a.chunk.js",
+    "static/media/car.svg": "/carland/static/media/car.4fdf2a51ab8583817ea9bab227be8b4c.svg",
+    "static/media/car01.png": "/carland/static/media/car01.ce26084eebb113735748.png",
+    "static/media/car.png": "/carland/static/media/car.804ee306b75d21838346.png",
+    "static/media/phone.svg": "/carland/static/media/phone.9278be0488f1aa59f33518053ceba450.svg",
+    "static/media/car02.png": "/carland/static/media/car02.29885970f9edfefbb664.png",
+    "static/media/car03.png": "/carland/static/media/car03.671267833ca3a330d0c6.png",
+    "static/media/playstore-btn.svg": "/carland/static/media/playstore-btn.50561532b5d30e048934bbf2ed5aa808.svg",
+    "static/media/google-play.svg": "/carland/static/media/google-play.506350a7ff74ca3972f49215f07a6e13.svg",
+    "static/media/logo.svg": "/carland/static/media/logo.f89c58186bf9dd11260294815a81d636.svg",
+    "static/media/audi.svg": "/carland/static/media/audi.53a440aad491cca9f23903d8362ce39b.svg",
+    "static/media/appstore-btn.svg": "/carland/static/media/appstore-btn.2eda07244f2b8903c48b74ae6a6785ef.svg",
+    "static/media/app-store.svg": "/carland/static/media/app-store.ee6273a59a7080fcf0a8a44e685d0589.svg",
+    "static/media/ford.svg": "/carland/static/media/ford.8cf3ff3b2cfb381ec5bcb5344f8a68f6.svg",
+    "static/media/seat.svg": "/carland/static/media/seat.2025ee76761e66b97f7e21ac264174d0.svg",
+    "static/media/wheel.svg": "/carland/static/media/wheel.73c688bd949bc16858a3172fcbe77940.svg",
+    "static/media/skoda.svg": "/carland/static/media/skoda.bf100f312bf6ead38e6d6d40aff31805.svg",
+    "static/media/bmw.svg": "/carland/static/media/bmw.e3af67f62bf09d75ecbeec11183cfb49.svg",
+    "static/media/gas.svg": "/carland/static/media/gas.5f699d9c22bc8285cc250a35c1536d30.svg",
+    "static/media/vw.svg": "/carland/static/media/vw.1bbf839aff532621f88dd8954785866e.svg",
+    "static/media/mazda.svg": "/carland/static/media/mazda.ed94ab54acef4f1875e23f28a30a829e.svg",
+    "static/media/gearshift.svg": "/carland/static/media/gearshift.f6e2121a3ad7c6377d5e32f2764d811c.svg",
+    "static/media/engine.svg": "/carland/static/media/engine.48a43a067323de9bea9b9d5d7b7b4a87.svg",
+    "index.html": "/carland/index.html",
+    "static/media/quote.svg": "/carland/static/media/quote.ce0222aa83a82e10135dc61c09f5a7c2.svg",
+    "static/media/mercedes.svg": "/carland/static/media/mercedes.8594f710fd289e2fa359bd32a5d5f8e1.svg",
+    "main.61be283e.css.map": "/carland/static/css/main.61be283e.css.map",
+    "main.cb23c7b4.js.map": "/carland/static/js/main.cb23c7b4.js.map",
+    "787.2ed6926a.chunk.js.map": "/carland/static/js/787.2ed6926a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61be283e.css",
+    "static/js/main.cb23c7b4.js"
+  ]
+}
