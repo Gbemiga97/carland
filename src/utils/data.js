@@ -202,11 +202,27 @@ const carsData = [
     },
 ]
 
+const testimonialsData = [
+    {
+        msg: "They truly exceed my expectations and made my car rental experience delight",
+        avatar: images.Avatar,
+        name: 'Jane Doe',
+        job: 'Photographer & Videographer'
+    },
+    {
+        msg: "They truly exceed my expectations and made my car rental experience delight",
+        avatar: images.Avatar,
+        name: 'Jane Doe',
+        job: 'Photographer & Videographer'
+    },
+]
+
 const data = {
     navData,
     locationData,
     brandsData,
-    carsData
+    carsData,
+    testimonialsData
 }
 
 

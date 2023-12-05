@@ -1,8 +1,14 @@
 
+import { TestimonialsSlider } from "../components"
+
+
+
 const Testimonials = () => {
   return (
     <section id="testimonials" className="section flex items-center">
-      Testimonials
+      <div className="container mx-auto">
+      <TestimonialsSlider />
+      </div>
     </section>
   )
 }
