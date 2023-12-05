@@ -16,7 +16,7 @@ const Footer = () => {
         initial='hidden'
         whileInView={'show'}
         viewport={{ once: false, amount: 0.6 }}
-         className='flex flex-col lg:flex-row lg:justify-between gap-x-5 gap-y-14'>
+         className='grid md:grid-cols-2 xl:grid-cols-4 gap-x-5 gap-y-14'>
           <div className='flex flex-col flex-1 gap-y-8'>
             {/* logo */}
             <Link 

@@ -34,7 +34,7 @@ const Header = () => {
       }
 
       //search
-      if(window.scrollY > 803) {
+      if(window.scrollY > 700) {
         setSearchActive(true)
       } else {
         setSearchActive(false)

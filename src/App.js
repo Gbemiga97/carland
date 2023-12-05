@@ -14,7 +14,6 @@ function App() {
       <CTA />
       <Footer />
       <BackToTopBtn />
-      <div className="h-[100rem]" />
     </div>
   );
 }

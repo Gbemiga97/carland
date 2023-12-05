@@ -12,13 +12,13 @@ import { images, variants } from '../utils'
 const About = () => {
 
   const [ref, inView] = useInView({
-    threshold: 0.5,
+    threshold: 0.1,
   })
 
   return (
    <section ref={ref} id="about" className='section flex items-center'>
     <div className="container mx-auto">
-      <div className='flex flex-col xl:flex-row xl:justify-between'>
+      <div className='flex flex-col xl:flex-row xl:justify-between items-center text-center xl:items-start xl;:text-start'>
         {/* image */}
         <motion.div
         variants={variants.fadeIn('up', 0.2)}
@@ -60,9 +60,9 @@ const About = () => {
               initial='hidden'
               whileInView={'show'}
               viewport={{ once: false, amount: 0.6 }}
-            className='flex items-center gap-x-8 mb-12'>
+            className='flex items-center gap-x-8 mb-12 justify-center xl:justify-start'>
               {/* car types */}
-              <div className='flex flex-col w-[100px]'>
+              <div className='flex flex-col items-center xl:items-start w-[100px]'>
                 <MdOutlineDirectionsCar className='text-5xl text-accent mb-2' />
                 <div className='text-3xl font-black mb-2'>
                   {
@@ -82,7 +82,7 @@ const About = () => {
               </div>
               
                {/* rental outlets */}
-               <div className='flex flex-col w-[100px]'>
+               <div className='flex flex-col items-center xl:items-start w-[100px]'>
                 <MdOutlineMapsHomeWork className='text-5xl text-accent mb-2' />
                 <div className='text-3xl font-black mb-2'>
                   {
@@ -102,7 +102,7 @@ const About = () => {
               </div>
 
                {/* repair points */}
-               <div className='flex flex-col w-[100px]'>
+               <div className='flex flex-col items-center xl:items-start w-[100px]'>
                 <MdOutlineBuildCircle  className='text-5xl text-accent mb-2' />
                 <div className='text-3xl font-black mb-2'>
                   {
